@@ -35,3 +35,5 @@ var Hola = "Hola Mundo"
 
 [Segundo Texto](..\Practice2\secondPractice.md)
 
+[Get Started](Practice2/secondPractice.md) <!-- Asi se enlaza un documento en github-->
+
